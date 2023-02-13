@@ -2,6 +2,8 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base"
-  ],
-  "prhourlylimit": 3
+  ]
 }
+,
+6
+  "prhourlylimit": 3
